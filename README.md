@@ -21,7 +21,7 @@ A beautiful and responsive currency converter built with **React** and **Tailwin
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [ExchangeRate API](https://www.exchangerate-api.com/)
-- [Vite](https://vitejs.dev/) *(optional)*
+- [Vite](https://vitejs.dev/) 
 
 ---
 
